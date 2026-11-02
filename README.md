@@ -9,7 +9,7 @@
 2. Your report appears at `/.well-known/ccrfc-report` and in the `/handshake` declaration. Both doors, byte-identical.
 3. Done. Forget it until your handling changes.
 
-Implements the [Cognitive Commons Framework](https://github.com/JohnHenryUS/ccf) — read the RFCs there. This repo is code only: the server, a sample report, and the test driver.
+Implements the [Consensual Commons Framework](https://github.com/JohnHenryUS/ccf) — read the RFCs there. This repo is code only: the server, a sample report, and the test driver.
 
 ## Files
 
